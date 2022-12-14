@@ -1,4 +1,9 @@
 .header__arrow-button
 {
-    
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-top: 200px;
+    background: center / 100% no-repeat url('../../../images/header/arrow.svg');
 }

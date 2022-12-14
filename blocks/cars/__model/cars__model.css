@@ -1,4 +1,6 @@
-.cars__model
-{
-    
+.cars__model {
+  margin-top: 0;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 32px;
 }

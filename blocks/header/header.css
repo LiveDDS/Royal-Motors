@@ -1,3 +1,6 @@
 .header{
-  
+    height: 100vh;
+    padding-top: 40px;
+    color: var(--text-white);
+    background: center / cover no-repeat url('../../images/header/background.png');
 }

@@ -1,4 +1,7 @@
-.header__store-button
-{
-    
+.header__store-button {
+  height: 50px;
+  width: 18px;
+  cursor: pointer;
+  background: 80% 40% / 104% no-repeat
+    url("../../../images/header/store_bag.svg");
 }

@@ -1,4 +1,7 @@
-.header__contacts
-{
-    
+.header__contacts {
+  display: flex;
+  width: 190px;
+  justify-content: space-between;
+  font-size: 16px;
+  letter-spacing: 0.1em;
 }

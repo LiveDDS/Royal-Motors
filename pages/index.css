@@ -6,14 +6,24 @@
 /* Header */
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__arrow-button/header__arrow-button.css';
+@import '../blocks/header/__contacts/header__contacts.css';
+@import '../blocks/header/__nav/header__nav.css';
+@import '../blocks/header/__phone/header__phone.css';
+@import '../blocks/header/__store-button/header__store-button.css';
+@import '../blocks/header/__wrap/header__wrap.css';
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
 @import '../blocks/footer/footer.css';
+@import '../blocks/footer/__wrap/footer__wrap.css';
+@import '../blocks/footer/__copyright/footer__copyright.css';
+@import '../blocks/footer/__title/footer__title.css';
 /* About */
 @import '../blocks/about/about.css';
 @import '../blocks/about/__descr/about__descr.css';
 @import '../blocks/about/__title/about__title.css';
+@import '../blocks/about/__text/about__text.css';
 /* Cars */
 @import '../blocks/cars/cars.css';
 @import '../blocks/cars/__title/cars__title.css';
@@ -30,3 +40,4 @@
 @import '../blocks/nav/__logo/nav__logo.css';
 @import '../blocks/nav/__list/nav__list.css';
 @import '../blocks/nav/__item/nav__item.css';
+@import '../blocks/nav/__link/nav__link.css';

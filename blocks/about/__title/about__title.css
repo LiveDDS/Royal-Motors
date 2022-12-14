@@ -1,4 +1,4 @@
-.about__title
-{
-    
+.about__title {
+  text-transform: uppercase;
+  font-size: 50px;
 }

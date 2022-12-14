@@ -1,4 +1,4 @@
-.footer__wrap
-{
-    
+.footer__wrap {
+  display: flex;
+  justify-content: space-between;
 }

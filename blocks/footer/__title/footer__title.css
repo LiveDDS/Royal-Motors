@@ -1,4 +1,4 @@
-.footer__title
-{
-    
+.footer__title {
+  text-transform: uppercase;
+  font-weight: lighter;
 }
