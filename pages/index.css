@@ -1,12 +1,32 @@
 @import '../vendor/normalize.css';
 @import '../vendor/variables.css';
 @import '../vendor/fonts/fonts.css';
-/* Blocks */ 
+/* Blocks */
 @import '../blocks/page/page.css';
-/* Header */ 
+/* Header */
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
 @import '../blocks/footer/footer.css';
+/* About */
+@import '../blocks/about/about.css';
+@import '../blocks/about/__descr/about__descr.css';
+@import '../blocks/about/__title/about__title.css';
+/* Cars */
+@import '../blocks/cars/cars.css';
+@import '../blocks/cars/__title/cars__title.css';
+@import '../blocks/cars/__picture/cars__picture.css';
+@import '../blocks/cars/__model/cars__model.css';
+@import '../blocks/cars/__item/cars__item.css';
+@import '../blocks/cars/__img/cars__img.css';
+@import '../blocks/cars/__catalog/cars__catalog.css';
+/* Container */
+@import '../blocks/container/container.css';
+/* Nav */
+@import '../blocks/nav/nav.css';
+@import '../blocks/nav/__picture/nav__picture.css';
+@import '../blocks/nav/__logo/nav__logo.css';
+@import '../blocks/nav/__list/nav__list.css';
+@import '../blocks/nav/__item/nav__item.css';
